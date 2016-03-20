@@ -1,0 +1,30 @@
+
+#bein {
+
+	background:-o-linear-gradient(bottom, #5b2482 5%, #9f55be 100%);
+	background:-webkit-gradient( linear, left top, left bottom, color-stop(0.05, #5b2482), color-stop(1, #9f55be) );
+	background:-moz-linear-gradient( center top, #5b2482 5%, #9f55be 100% );
+	filter:progid:DXImageTransform.Microsoft.gradient(startColorstr="#5b2482", endColorstr="#9f55be");	
+	background: -o-linear-gradient(top,#5b2482,9f55be);
+	background-color:#5b2482;
+	border:0px solid #000000;
+	text-align:center;
+   	border-width:0px 0px 1px 1px;
+   	font-size:14px;
+  	font-family:Arial;
+	font-weight:bold;
+   	color:#ffffff; 
+			}
+#bein td{
+    width: 150px;
+    border-style: solid;
+    border-color: white;
+    border-width: 1px;
+    color: white;
+    text-align: center;
+    padding-top: 15px;
+    padding-bottom: 15px;
+
+ }
+
+
